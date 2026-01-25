@@ -25,11 +25,9 @@ Each day is categorized by difficulty to keep the momentum going regardless of h
 
 ### 📂 Repository Structure
 ## text
-- ├── 🟢_easy/          # Strings, Lists, and Basic Logic
-- ├── 🟡_medium/        # Classes, Decorators, and API scripts
-- ├── 🔴_hard/          # Complex Algorithms and Optimization
-- └── 📝 daily_log.md   # A quick diary of what I learned each day
-Use code with caution.
+- ├── 🟢_warm-up/          # Strings, Lists, and Basic Logic
+- ├── 🟡_Workouts/        # Classes, Decorators, and API scripts
+- ├── 🔴_Boss-Battles/          # Complex Algorithms and Optimization
 
 ### 🚀 How to Use This
 If you've stumbled upon this repo, feel free to:
